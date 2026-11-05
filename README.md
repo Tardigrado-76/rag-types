@@ -91,8 +91,7 @@ flowchart TD
 
 `ash
 # Clonar el repositorio
-git clone https://github.com/Tardigrado-76/rag-types.git
-cd rag-types
+# Repositorio privado enterprise (acceso confidencial bajo acuerdo NDA)
 
 # Configurar entorno de dependencias
 pip install -r requirements.txt
@@ -102,3 +101,4 @@ pip install -r requirements.txt
 
 ## 5. Licencia y Cumplimiento
 Código bajo licencia enterprise para arquitectura soberana de IA. Conforme al marco de gobernanza europea de inteligencia artificial.
+
